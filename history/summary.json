@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1208,
-    "timeDay": 1208,
-    "timeWeek": 1208,
-    "timeMonth": 1208,
-    "timeYear": 1208,
+    "time": 1422,
+    "timeDay": 1422,
+    "timeWeek": 1422,
+    "timeMonth": 1422,
+    "timeYear": 1422,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bitwarden",
     "status": "down",
-    "uptime": "7.80%",
-    "uptimeDay": "7.80%",
-    "uptimeWeek": "7.80%",
-    "uptimeMonth": "7.80%",
-    "uptimeYear": "7.80%",
+    "uptime": "1.20%",
+    "uptimeDay": "1.20%",
+    "uptimeWeek": "1.20%",
+    "uptimeMonth": "1.20%",
+    "uptimeYear": "1.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-07": 0
+      "2021-12-07": 1
     }
   }
 ]
