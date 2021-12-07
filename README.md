@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://ldunkum.github.io/status/): <!--live status--> **🟩 All systems operational**
 
 This repository contains a status page for my selfhosted applications. It's powered by [Upptime](https://github.com/upptime/upptime).
 
