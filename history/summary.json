@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1430,
-    "timeDay": 1430,
-    "timeWeek": 1430,
-    "timeMonth": 1430,
-    "timeYear": 1430,
+    "time": 1461,
+    "timeDay": 1461,
+    "timeWeek": 1461,
+    "timeMonth": 1461,
+    "timeYear": 1461,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 879,
-    "timeDay": 879,
-    "timeWeek": 879,
-    "timeMonth": 879,
-    "timeYear": 879,
+    "time": 934,
+    "timeDay": 934,
+    "timeWeek": 934,
+    "timeMonth": 934,
+    "timeYear": 934,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Bitasdwarden",
+    "url": "asdflkjh.test.de",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "bitasdwarden",
+    "status": "down",
+    "uptime": "7.14%",
+    "uptimeDay": "7.14%",
+    "uptimeWeek": "7.14%",
+    "uptimeMonth": "7.14%",
+    "uptimeYear": "7.14%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-12-07": 0
+    }
   }
 ]
