@@ -23,7 +23,7 @@ status-website:
   name: Upptime
   introTitle: "Status page for my selfhosted applications"
   introMessage: This is a simple status page
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
