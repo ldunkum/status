@@ -7,8 +7,6 @@ sites:
     url: $MY_NEXTCLOUD
   - name: Bitwarden
     url: $MY_BITWARDEN
-  - name: test site2
-    url: hbweasdrbnf.coasdfn.de #bad url to test notifications
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
