@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1481,
-    "timeDay": 1481,
-    "timeWeek": 1481,
-    "timeMonth": 1481,
-    "timeYear": 1481,
+    "time": 1473,
+    "timeDay": 1473,
+    "timeWeek": 1473,
+    "timeMonth": 1473,
+    "timeYear": 1473,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 807,
-    "timeWeek": 807,
-    "timeMonth": 807,
-    "timeYear": 807,
+    "time": 933,
+    "timeDay": 933,
+    "timeWeek": 933,
+    "timeMonth": 933,
+    "timeYear": 933,
     "dailyMinutesDown": {}
   },
   {
-    "name": "test site",
-    "url": "hbwerbnf.coasdfn.de",
+    "name": "test site2",
+    "url": "hbweasdrbnf.coasdfn.de",
     "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "test-site",
+    "slug": "test-site2",
     "status": "down",
-    "uptime": "0.72%",
-    "uptimeDay": "0.72%",
-    "uptimeWeek": "0.72%",
-    "uptimeMonth": "0.72%",
-    "uptimeYear": "0.72%",
+    "uptime": "7.17%",
+    "uptimeDay": "7.17%",
+    "uptimeWeek": "7.17%",
+    "uptimeMonth": "7.17%",
+    "uptimeYear": "7.17%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-07": 5
+      "2021-12-07": 0
     }
   }
 ]
