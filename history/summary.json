@@ -40,9 +40,9 @@
     "url": "$TR_MOODLE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "aws-test-moodle-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 404,
     "timeMonth": 404,
     "timeYear": 404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-09": 0
+    }
   },
   {
     "name": "TR HTML Prototype",
