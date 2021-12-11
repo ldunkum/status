@@ -5,18 +5,18 @@
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.33%",
+    "uptimeDay": "92.66%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.33%",
     "time": 2047,
     "timeDay": 7495,
     "timeWeek": 2047,
     "timeMonth": 2047,
     "timeYear": 2047,
     "dailyMinutesDown": {
-      "2021-12-11": 0
+      "2021-12-11": 106
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "$MY_BITWARDEN",
     "icon": "https://bitwarden.com/favicon-32x32.png",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 731,
     "timeMonth": 731,
     "timeYear": 731,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-11": 0
+    }
   },
   {
     "name": "AWS test moodle instance",
@@ -43,11 +45,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "aws-test-moodle-instance",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
     "time": 412,
     "timeDay": 451,
     "timeWeek": 412,
