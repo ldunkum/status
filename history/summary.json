@@ -5,14 +5,14 @@
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "94.19%",
+    "uptime": "94.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.34%",
+    "uptimeWeek": "82.32%",
     "uptimeMonth": "93.37%",
-    "uptimeYear": "94.19%",
+    "uptimeYear": "94.26%",
     "time": 1770,
     "timeDay": 1196,
-    "timeWeek": 2102,
+    "timeWeek": 2140,
     "timeMonth": 1722,
     "timeYear": 1770,
     "dailyMinutesDown": {
@@ -34,14 +34,14 @@
     "icon": "https://bitwarden.com/favicon-32x32.png",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "95.24%",
+    "uptime": "95.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.72%",
+    "uptimeWeek": "86.84%",
     "uptimeMonth": "94.84%",
-    "uptimeYear": "95.24%",
+    "uptimeYear": "95.29%",
     "time": 723,
     "timeDay": 537,
-    "timeWeek": 721,
+    "timeWeek": 722,
     "timeMonth": 712,
     "timeYear": 723,
     "dailyMinutesDown": {
@@ -100,9 +100,9 @@
     "url": "$TR_GITLAB",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tr-gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,6 +111,8 @@
     "timeWeek": 1741,
     "timeMonth": 1635,
     "timeYear": 1635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-26": 0
+    }
   }
 ]
