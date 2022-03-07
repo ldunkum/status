@@ -13,6 +13,10 @@ sites:
     url: $TR_MOODLE_URL
   - name: TR HTML Prototype
     url: $TR_PROTOTYPE
+  - name: TR OPEN
+    url: $TR_OPEN
+  - name: TR Main
+    url: $TR_MAIN
   - name: TR GITLAB
     url: $TR_GITLAB
     
