@@ -19,6 +19,8 @@ sites:
     url: $TR_MAIN
   - name: TR GITLAB
     url: $TR_GITLAB
+  - name: TR Canvas
+    url: $TR_CANVAS
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
